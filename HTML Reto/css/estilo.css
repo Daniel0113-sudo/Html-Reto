@@ -1,0 +1,229 @@
+
+h1{
+  border: 3px solid white;
+  border-radius: 16px;
+  background: #FF8333;
+  height: 120px;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  line-height: 120px;
+  color: white;
+}
+#Idiomas{
+  border: 3px solid white;
+  border-radius: 16px;
+  background: #00C1FF;
+  height: 40px;
+  width: 20%;
+  margin: 10px auto;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+}
+#Pers{
+  border: 3px solid white;
+  border-radius: 16px;
+  background: #00C1FF;
+  height: 40px;
+  width: 70%;
+  margin: 10px;
+  text-align: left;
+  line-height: 40px;
+  color: white;
+}
+#Pres{
+  border: 3px solid white;
+  border-radius: 16px;
+  background: #FF0042;
+  height: 120px;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  line-height: 120px;
+  color: white;
+}
+#Robot{
+  border: 3px solid white;
+  border-radius: 16px;
+  background: #FF0042;
+  height: 120px;
+  width: 100%;
+  margin: 10px auto;
+  text-align: center;
+  line-height: 120px;
+  color: white;
+}
+h1 b,h1 u{
+  color: white;
+}
+ul{
+  width: 69%;
+  margin: 17% auto;
+  padding: 0px;
+}
+ul li{
+  list-style: none;
+  width: 436px;
+  height: 80px;
+  text-align: center;
+  line-height: 80px;
+  float: left;
+  border: 4px solid White;
+  transition: 0.5s all ease-in;
+  color: White;
+}
+#opts1{
+  background: #FF0042;
+}
+#opts2{
+  background: #FF0042;
+}
+#opt3{
+  background: #FF8333;
+}
+#opt4{
+  background: #FF8333;
+}
+#opt5{
+  background: #FF8333;
+}
+#opt6{
+  background:#FF8333;
+}
+
+#opts1:hover, #opts2:hover{
+  border-radius: 20px;
+  background: #FF0042;
+  border-radius: 25px;
+  text-decoration: underline;
+}
+ul li:hover{
+  font-weight: 900;
+  color: red;
+}
+#DB{
+  clear: both;
+  height: 40px;
+  width: 100%;
+  margin: 10px auto;
+  left: 2px;
+  border: 2px solid white;
+  color: white;
+  line-height: 40px;
+  background: #0083FF;
+  text-align: center;
+  background-position: center;
+}
+#p1{
+  color: white;
+  width: 70%;
+  margin: 10px;
+  border: 2px solid white;
+  padding: 10px;
+  letter-spacing: 3px;
+  text-align: justify;
+  background-position: left;
+}
+#p2{
+  color: white;
+  width: 98%;
+  margin: 0px auto;
+  border: 2px solid white;
+  padding: 10px;
+  letter-spacing: 3px;
+  text-align: justify;
+  background-position: justify;
+}
+#p3{
+  color: white;
+  width: 97%;
+  margin: 10px;
+  border: 2px solid white;
+  padding: 10px;
+  letter-spacing: 3px;
+  text-align: justify;
+  background-position: left;
+}
+div{
+    width: 800px;
+    margin: 10px auto;
+}
+div div{
+    float: left;
+    width: 43.75%;
+    padding: 3%;
+    border: 1px solid black;
+    text-align: justify;
+    background: green;
+    height: 120px;
+}
+#izq{
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width: 20%;
+    height: 50%;
+}
+#dec{
+    position: fixed;
+    right: 0px;
+    top:0px;
+    width: 20%;
+    height: 50%;
+}
+#bajo{
+  position: fixed;
+  right: 0px;
+  top:350px;
+  width: 20%;
+  height: 50%;
+}
+#alto{
+  position: fixed;
+  left: 0px;
+  top:350px;
+  width: 20%;
+  height: 50%;
+}
+#MUI1{
+  position: absolute;
+  left:300px;
+  top:25px;
+  width: 22%;
+  height: 50%;
+  height: 100px;
+  width: 150px;
+
+}
+#MUI2{
+  position: absolute;
+  right:10px;
+  top:260px;
+  width: 500px;
+  height: 770px;
+}
+#imgdb{
+  position: absolute;
+  top: 500px;
+  left: 10px;
+  width: 49%;
+  height: auto;
+}
+#imgdb1{
+  position: absolute;
+  top: 50px;
+  right: 10px;
+  width: 150px;
+  height: 100px;
+}
+a{
+  color: white;
+}
+#Dani{
+  position: absolute;
+  top: 930px;
+  right: 10px;
+  width: 350px;
+  height: 490px;
+}
